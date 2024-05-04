@@ -18,7 +18,7 @@ This program is developed by Sreedev TS to automate the process of generating ce
 1. Clone the repository:
 
 ```
-git clone https://github.com/sreedevts/automated-certificate-generator.git
+git clone https://github.com/xreedev/AutomatedCertificateGenerator.git
 ```
 
 2. Place your certificate template as `template.docx` in the project directory.
