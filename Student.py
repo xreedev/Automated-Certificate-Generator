@@ -10,7 +10,7 @@ class Student:
             self.event1 = "Discuss Throw"
         elif event1=="LJ":
             self.event1="Long Jump"
-        elif event1=="FOOTBALL" or "VOLLEYBALL" or "CRICKET":
+        elif event1=="FOOTBALL" or "VOLLEYBALL" or "CRICKET" or "BASKETBALL":
             self.event1=event1
         else:
             self.event1 = event1 + " Sprint"
