@@ -20,7 +20,7 @@ def addInfo(list, template):
         replace_text(doc, "100MSPRINTANDJUMP", student.event1)
 
         # Save the modified document
-        doc.save(f"Final_Word2//{student.name}_certificate.docx")
+        doc.save(f"Final_Word//{student.name}_certificate.docx")
 
         if student.event2 != "":
 
