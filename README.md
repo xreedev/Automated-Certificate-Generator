@@ -36,8 +36,9 @@ python certificate_generator.py
 ## Modification
 
 If you need to modify the certificate template, make sure to leave the placeholders `NAME`, `CLASS`, `SEM`, and `EVENT` where the values need to be substituted. With minimal experience, you can modify the code to suit your use case.
-
+This is the template
 ![template](template.png "Certificate Template")
+This is the final result
 ![Certificate](final.png "Certificate ")
 
 ## Note
