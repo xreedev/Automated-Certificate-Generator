@@ -37,6 +37,9 @@ python certificate_generator.py
 
 If you need to modify the certificate template, make sure to leave the placeholders `NAME`, `CLASS`, `SEM`, and `EVENT` where the values need to be substituted. With minimal experience, you can modify the code to suit your use case.
 
+![template](template.png "Certificate Template")
+![Certificate](final.png "Certificate ")
+
 ## Note
 
 This program was created to automate the certificate designing process for my college. No coding experience is needed to use this program, just basic understanding.I just built to automate design which was supposed to be done by me manually.
