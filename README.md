@@ -25,10 +25,10 @@ git clone https://github.com/xreedev/AutomatedCertificateGenerator.git
 
 3. Place your CSV file with the data (containing columns Name, Class, Semester, Event) in the directory `student_data`.
 
-4. Run the program:
+4. Install requirements.txt and run the program:
 
 ```
-python certificate_generator.py
+pip install -r requirements.txt
 ```
 
 5. Find your generated certificates in the `Final_Certificates` directory.
