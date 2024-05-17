@@ -21,7 +21,7 @@ If you are planning to use it go through README file and mdoify code.
 gh repo clone xreedev/Automated-Certificate-Generator
 ```
 
-2. Place your certificate template as `template.docx` in the project directory with NAME ,CLASS.
+2. Place your certificate template as `template.docx` in the project directory with NAME ,CLASS and EVENT to be substituted.
 
 3. Place your CSV file with the data (containing columns Name, Class, Semester, Event) in the directory `student_data`.
 
@@ -46,7 +46,7 @@ This is the final result.
 ## Note
 
 This program was created to automate the certificate designing process for my college. No coding experience is needed to use this program, just basic understanding.I just built to automate design which was supposed to be done by me manually.
-Make sure to leave the words `NAME`, `CLASS`, `SEM`, and `EVENT` where the values need to be substituted.
+Any contributions are welcome.
 
 ## Support
 
