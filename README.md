@@ -50,6 +50,6 @@ Make sure to leave the words `NAME`, `CLASS`, `SEM`, and `EVENT` where the value
 
 ## Support
 
-For any issues or queries, feel free to contact Sreedev TS at [sreedevts@example.com](mailto:xreedev@gmail.com).
+For any issues or queries, feel free to contact Sreedev TS at [xreedev@gmail.com](mailto:xreedev@gmail.com).
 
 Enjoy automating your certificate generation process!
