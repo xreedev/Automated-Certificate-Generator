@@ -1,9 +1,9 @@
 # Automated Certificate Generator
 
-This program is developed by Sreedev TS to automate the process of generating certificates. It is built using Python and utilizes libraries such as OS, csv, docx, etc.
+This Program was built inorder to automate the sports day certificate generator process for my college.
+If you are planning to use it go through README file and mdoify code.
 
 ## Features
-
 - Generates certificates automatically from a template.
 - Substitutes values for Name, Class, Semester, and Event from a CSV file.
 - Converts the generated Word documents to PDF format.
@@ -18,10 +18,10 @@ This program is developed by Sreedev TS to automate the process of generating ce
 1. Clone the repository:
 
 ```
-git clone https://github.com/xreedev/AutomatedCertificateGenerator.git
+gh repo clone xreedev/Automated-Certificate-Generator
 ```
 
-2. Place your certificate template as `template.docx` in the project directory.
+2. Place your certificate template as `template.docx` in the project directory with NAME ,CLASS.
 
 3. Place your CSV file with the data (containing columns Name, Class, Semester, Event) in the directory `student_data`.
 
