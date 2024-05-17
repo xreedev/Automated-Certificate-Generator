@@ -17,7 +17,7 @@ def addInfo(list, template):
         doc = Document(template)
         replace_text(doc, "Name", student.name)
         replace_text(doc, "CLASS", student.sem + student.dept)
-        replace_text(doc, "100MSPRINTANDJUMP", student.event1)
+        replace_text(doc, "EVENT", student.event1)
 
         # Save the modified document
         doc.save(f"Final_Word//{student.name}_certificate.docx")
