@@ -1,7 +1,7 @@
 # Automated Certificate Generator
 
-This Program was built inorder to automate the sports day certificate generator process for my college.
-If you are planning to use it go through README file and mdoify code.
+This Program was built in order to automate the sports day certificate generation process for my college.
+If you plan to use it, go through the README file and modify the code.
 
 ## Features
 - Generates certificates automatically from a template.
@@ -10,8 +10,8 @@ If you are planning to use it go through README file and mdoify code.
 
 ## Requirements
 
-- Python 3.x
-- Required Python libraries: `os`, `csv`, `docx`, `docx2pdf`
+- Python 3. x
+- Required Python libraries: `os`, `CSV`, `docx`, `docx2pdf`
 
 ## Usage
 
@@ -21,7 +21,7 @@ If you are planning to use it go through README file and mdoify code.
 gh repo clone xreedev/Automated-Certificate-Generator
 ```
 
-2. Place your certificate template as `template.docx` in the project directory with NAME ,CLASS and EVENT to be substituted.
+2. Place your certificate template as `template.docx` in the project directory with NAME, CLASS, and EVENT to be substituted.
 
 3. Place your CSV file with the data (containing columns Name, Class, Semester, Event) in the directory `student_data`.
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Modification
 
-If you need to modify the certificate template, make sure to leave the placeholders `NAME`, `CLASS`, `SEM`, and `EVENT` where the values need to be substituted. With minimal experience, you can modify the code to suit your use case.
+If you need to modify the certificate template, leave the placeholders `NAME`, `CLASS`, `SEM`, and `EVENT` where the values need substituting. With minimal experience, you can modify the code to suit your use case.
 <br>This is the template.
 
 ![template](template.png "Certificate Template")<br>
@@ -45,7 +45,7 @@ This is the final result.
 
 ## Note
 
-This program was created to automate the certificate designing process for my college. No coding experience is needed to use this program, just basic understanding.I just built to automate design which was supposed to be done by me manually.
+This program was created to automate the certificate designing process for my college. No coding experience is needed to use this program, just basic understanding. I just built to automate design which was supposed to be done by me manually.
 Any contributions are welcome.
 
 ## Support
