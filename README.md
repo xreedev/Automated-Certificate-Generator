@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Modification
 
-If you want to modify the certificate template, leave the placeholders `NAME`, `CLASS`, `SEM`, and `EVENT` where the values need substituting. With minimal experience, you can modify the code to suit your use case.
+If you want to modify the certificate template, leave the placeholders `NAME`, `CLASS`, `SEM`, and `EVENT` where the values are to be substituted. With minimal experience, you can modify the code to suit your use case.
 <br>This is the template.
 
 ![template](template.png "Certificate Template")<br>
